@@ -2,3 +2,4 @@ Jason Noble, Instructor
 Johnny Appleseed, Student
 Ted Smith, Student
 Kelli Hackethal, Student
+Paul Stone, Student
