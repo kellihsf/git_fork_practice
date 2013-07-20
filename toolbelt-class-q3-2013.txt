@@ -3,4 +3,5 @@ Johnny Appleseed, Student
 Ted Smith, Student
 Kelli Hackethal, Student
 Paul Stone, Student
-Bob's burgers
+Bob's burger
+Hey there
